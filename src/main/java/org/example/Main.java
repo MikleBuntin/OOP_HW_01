@@ -13,6 +13,7 @@ public class Main {
         waterMachine.addProduct(new ProductWater("water 1", 65.00));
         waterMachine.addProduct(new ProductWater("water 2", 95.00, 1.0));
 
+
         ChocolateVendingMachine chocoMachine = new ChocolateVendingMachine();
         chocoMachine.addProduct(new ProductChocolate("Snickers", 100.00, 160.0));
         chocoMachine.addProduct(new ProductChocolate("Snickers Super", 160.00, 220.0));
