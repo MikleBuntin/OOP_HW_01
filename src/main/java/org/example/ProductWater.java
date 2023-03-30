@@ -19,7 +19,7 @@ public class ProductWater extends Product{
         return volume;
     }
     public String toString(){
-        return " " + getName() + ", vol: " + getVolume() + ", price: " + getCost();}
+        return getName() + ", vol: " + getVolume() + ", price: " + getCost() + "\n";}
 
 
     public void setVolume(Double volume) {

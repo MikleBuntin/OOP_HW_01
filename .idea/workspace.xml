@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e3923b6-811b-4d19-90ba-394b807b9063" name="Changes" comment="Лекция готова. Приступаю к 1му ДЗ.">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/HotDrink.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/HotDrinkVendingMachine.java" afterDir="false" />
+    <list default="true" id="3e3923b6-811b-4d19-90ba-394b807b9063" name="Changes" comment="ДЗ 01 готово. :)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Machine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Machine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/HotDrink.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/HotDrink.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ProductChocolate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/ProductChocolate.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ProductWater.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/ProductWater.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -95,12 +92,20 @@
       <option name="project" value="LOCAL" />
       <updated>1680204455577</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="ДЗ 01 готово. :)">
+      <created>1680208069908</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1680208069908</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Лекция готова." />
     <MESSAGE value="Лекция готова. Приступаю к 1му ДЗ." />
-    <option name="LAST_COMMIT_MESSAGE" value="Лекция готова. Приступаю к 1му ДЗ." />
+    <MESSAGE value="ДЗ 01 готово. :)" />
+    <option name="LAST_COMMIT_MESSAGE" value="ДЗ 01 готово. :)" />
   </component>
 </project>

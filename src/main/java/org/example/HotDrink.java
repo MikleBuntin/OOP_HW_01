@@ -34,6 +34,6 @@ public class HotDrink extends Product{
         return volume;
     }
     public String toString(){
-        return " " + getName() + ", vol: " + getVolume() + ", temp: " + temp + ", price: " + getCost();}
+        return getName() + ", vol: " + getVolume() + ", temp: " + temp + ", price: " + getCost() + "\n";}
 
 }

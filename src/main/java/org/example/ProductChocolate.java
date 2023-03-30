@@ -10,7 +10,7 @@ public class ProductChocolate extends Product{
         return weight;
     }
     public String toString(){
-        return " " + getName() + ", weight: " + getWeight() + ", price: " + getCost();}
+        return getName() + ", weight: " + getWeight() + ", price: " + getCost() + "\n";}
 
     public void setWeight(Double weight) {
         this.weight = weight;
